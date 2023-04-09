@@ -1,5 +1,7 @@
 #pragma once
-
+//translated to c++ by e.ventures
+//https://arxiv.org/pdf/2208.09014.pdf
+//https://e.ventures
 class Vector4D {
 public:
     double t, x, y, z;

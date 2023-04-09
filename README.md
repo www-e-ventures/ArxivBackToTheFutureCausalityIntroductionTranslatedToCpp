@@ -23,3 +23,7 @@ The other following paragraphs are also translated into C++
 6. Conclusion Translated To Cpp
 
 Please start at main.cpp
+
+//translated to c++ by e.ventures
+//https://arxiv.org/pdf/2208.09014.pdf
+//https://e.ventures

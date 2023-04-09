@@ -1,6 +1,8 @@
 #include "../include/Observer.h"
 #include <cmath>
-
+//translated to c++ by e.ventures
+//https://arxiv.org/pdf/2208.09014.pdf
+//https://e.ventures
 Observer::Observer(const Vector4D& position)
         : position(position) {}
 
