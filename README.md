@@ -12,7 +12,7 @@ of the academic paper https://arxiv.org/pdf/2208.09014.pdf
 
 The underlying purpose is to be able to understand their theory 
 
-by reading code ( Physics for Software Engineers ).
+by reading code ( the universe translated for software engineers ).
 
 The other following paragraphs are also translated into C++ 
 
