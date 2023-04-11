@@ -16,6 +16,7 @@ by reading code ( the universe translated for software engineers ).
 
 The other following paragraphs are also translated into C++ 
 
+1. Introduction Translated To Cpp (this)
 2. Preferred Frames Translated to Cpp
 3. Bulk Signals And Signalling To The Past Translated to Cpp
 4. Classical causality Translated To Cpp
