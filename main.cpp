@@ -31,7 +31,7 @@ int main() {
     // Propagate the signal for some time
     double time = 10.0;
 
-    // Observe the effective speed of the signal using a high order function
+    // Observe the effective speed of the signal
     double effectiveSpeed = simulateEffectiveSpeed(
             brane, signal, observer, time,
             [](Signal& signal, double time) { signal.propagate(time); }
@@ -41,3 +41,4 @@ int main() {
 
     return 0;
 }
+
